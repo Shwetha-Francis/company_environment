@@ -1,0 +1,92 @@
+
+### 1️ Projects with Total and Completed Tasks
+
+| project_name     | total_tasks | completed_tasks |
+|------------------|-------------|------------------|
+| AI Chatbot       |      2      |         1        |
+| E-Commerce       |      2      |         1        |
+| Finance Tracker  |      1      |         1        |
+
+---
+
+### 2️ Top 2 Team Members with Most Tasks
+
+| member_name | total_tasks |
+|-------------|-------------|
+| Bob         |     2       |
+| Alice       |     1       |
+
+---
+
+### 3️ Tasks with Due Dates Earlier Than Project Average
+
+| task_id | project_id | task_name       | assigned_to | due_date   | status     |
+|---------|------------|------------------|-------------|------------|------------|
+| 1       |     1      | Design UI        |     2       | 2025-08-10 | Completed  |
+| 3       |     2      | Database Design  |     1       | 2025-08-15 | Completed  |
+
+---
+
+### 4️ Project with the Highest Budget
+
+| project_id | project_name    | budget    |
+|------------|------------------|-----------|
+|     3      | Finance Tracker  | 60000.00  |
+
+---
+
+### 5️ Percentage of Completed Tasks Per Project
+
+| project_name    | completion_percent |
+|------------------|--------------------|
+| AI Chatbot       |       50.00        |
+| E-Commerce       |       50.00        |
+| Finance Tracker  |      100.00        |
+
+---
+
+### 6️ Number of Tasks Assigned Per Person
+
+| task_name       | assigned_to | tasks_by_person |
+|------------------|-------------|------------------|
+| API Integration  |     2       |        2         |
+| Design UI        |     2       |        2         |
+| Build Backend    |     3       |        1         |
+| Database Design  |     1       |        1         |
+| Testing          |     4       |        1         |
+
+---
+
+### 7️⃣ Tasks Assigned to Team Leads (Not Completed, Due in 15 Days)
+
+> ✅ No rows returned – All tasks assigned to Team Leads are either completed or due later.
+
+---
+
+### 8️ Projects Without Any Task Records
+
+| project_id | project_name   | budget    |
+|------------|----------------|-----------|
+|     4      | Smart Home App | 45000.00  |
+|     5      | Health Monitor | 55000.00  |
+
+---
+
+### 9️ Best (Highest Accuracy) Model for Each Project
+
+| project_id | model_name | accuracy |
+|------------|------------|----------|
+|     1      | GPT        | 90.25    |
+|     2      | CNN        | 92.00    |
+|     3      | RNN        | 87.50    |
+|     5      | LSTM       | 93.80    |
+
+---
+
+### 10 Projects with Large Datasets Updated in the Last 30 Days
+
+| project_id | project_name    | budget    |
+|------------|------------------|-----------|
+|     1      | AI Chatbot       | 50000.00  |
+|     3      | Finance Tracker  | 60000.00  |
+|     5      | Health Monitor   | 55000.00  |
